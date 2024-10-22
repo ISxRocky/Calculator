@@ -1,0 +1,22 @@
+.calculator {
+  border: 1px solid rgb(151, 149, 149);
+  width: 200px;
+  border-radius: 5px;
+  padding: 20px 10px;
+  background: #7AB2D3;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #333;
+  font-weight: bold;
+}
+
+
